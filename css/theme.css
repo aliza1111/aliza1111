@@ -1,0 +1,305 @@
+/* Dark Theme Styles */
+body.dark-theme {
+    background-color: #0a0a0a;
+    color: #e0e0e0;
+}
+
+body.dark-theme .container {
+    color: #e0e0e0;
+}
+
+body.dark-theme p {
+    color: #b0b0b0;
+}
+
+body.dark-theme .navbar {
+    background: rgba(20, 20, 20, 0.95);
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme .nav-link {
+    color: #e0e0e0;
+}
+
+body.dark-theme .nav-link:hover {
+    color: #5a8fb8;
+}
+
+body.dark-theme .nav-link::after {
+    background: #5a8fb8;
+}
+
+body.dark-theme .bar {
+    background: #e0e0e0;
+}
+
+body.dark-theme .nav-logo a {
+    color: #5a8fb8;
+}
+
+body.dark-theme .hero {
+    background: #1a1a1a;
+}
+
+body.dark-theme .hero-title {
+    color: #e0e0e0;
+}
+
+body.dark-theme .hero-description {
+    color: #b0b0b0;
+}
+
+body.dark-theme .highlight {
+    color: #5a8fb8;
+}
+
+body.dark-theme .hero-subtitle {
+    color: #5a8fb8;
+}
+
+body.dark-theme .section-title {
+    color: #e0e0e0;
+}
+
+body.dark-theme .about {
+    background: #1a1a1a;
+}
+
+body.dark-theme .about-text p {
+    color: #b0b0b0;
+}
+
+body.dark-theme .stat {
+    background: #2a2a2a;
+}
+
+body.dark-theme .stat h3 {
+    color: #5a8fb8;
+}
+
+body.dark-theme .stat p {
+    color: #b0b0b0;
+}
+
+body.dark-theme .skills {
+    background: #2a2a2a;
+}
+
+body.dark-theme .skill-category {
+    background: #1a1a1a;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme .skill-category h3 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .projects {
+    background: #1a1a1a;
+}
+
+body.dark-theme .project-card {
+    background: #2a2a2a;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme .project-card:hover {
+    box-shadow: 0 8px 25px rgba(30, 58, 95, 0.4);
+}
+
+body.dark-theme .project-content h3 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .project-content p {
+    color: #b0b0b0;
+}
+
+body.dark-theme .project-tech span {
+    background: #2a2a2a;
+    color: #5a8fb8;
+    border: 1px solid #1e3a5f;
+}
+
+body.dark-theme .project-link {
+    color: #5a8fb8;
+}
+
+body.dark-theme .project-link:hover {
+    color: #7aa8c8;
+}
+
+body.dark-theme .btn-detail {
+    background: #1e3a5f;
+    color: #ffffff;
+}
+
+body.dark-theme .btn-detail:hover {
+    background: #2d5a87;
+    box-shadow: 0 5px 15px rgba(30, 58, 95, 0.5);
+}
+
+body.dark-theme .contact {
+    background: #2a2a2a;
+}
+
+body.dark-theme .contact-info h3 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .contact-info p {
+    color: #b0b0b0;
+}
+
+body.dark-theme .contact-item {
+    color: #b0b0b0;
+}
+
+body.dark-theme .contact-form {
+    background: #1a1a1a;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme .form-group input,
+body.dark-theme .form-group textarea {
+    background: #2a2a2a;
+    border-color: #444;
+    color: #e0e0e0;
+}
+
+body.dark-theme footer.py-4 {
+    background: #1a1a1a;
+    border-color: #333;
+}
+
+body.dark-theme .text-primary {
+    color: #5a8fb8;
+}
+
+body.dark-theme .text-primary:hover {
+    color: #7aa8c8;
+}
+
+body.dark-theme .text-muted {
+    color: #adb5bd;
+}
+
+body.dark-theme .theme-toggle {
+    background: #1e3a5f;
+    box-shadow: 0 4px 20px rgba(30, 58, 95, 0.4);
+}
+
+body.dark-theme .theme-toggle:hover {
+    box-shadow: 0 6px 25px rgba(30, 58, 95, 0.6);
+}
+
+/* Certificates Section Dark Mode */
+body.dark-theme .certificates {
+    background: #1a1a1a;
+}
+
+body.dark-theme .certificate-item {
+    background: #2a2a2a;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme .certificate-info h3 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .certificate-overlay {
+    background: rgba(30, 58, 95, 0.9);
+}
+
+body.dark-theme .skill-item {
+    background: #1e3a5f;
+    color: #e0e0e0;
+}
+
+/* Project Detail Modal Dark Mode */
+body.dark-theme .project-modal-content {
+    background-color: #1a1a1a;
+}
+
+body.dark-theme .project-detail-info {
+    background: #1a1a1a;
+}
+
+body.dark-theme .project-detail-info h2 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .project-detail-description h3,
+body.dark-theme .project-detail-features h3,
+body.dark-theme .project-detail-tech h3 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .project-detail-description p {
+    color: #b0b0b0;
+}
+
+body.dark-theme .project-detail-features li {
+    color: #b0b0b0;
+}
+
+body.dark-theme .project-date {
+    background: #1e3a5f;
+    color: #a8d5e2;
+}
+
+body.dark-theme .project-category {
+    background: #2d4a5f;
+    color: #b8d4e3;
+}
+
+/* Certificate Modal Dark Mode */
+body.dark-theme .modal-content {
+    background: #1a1a1a;
+}
+
+body.dark-theme .modal-info h3 {
+    color: #e0e0e0;
+}
+
+body.dark-theme .modal-info p {
+    color: #b0b0b0;
+}
+
+/* Buttons Dark Mode */
+body.dark-theme .btn-primary {
+    background: #1e3a5f;
+    color: #ffffff;
+}
+
+body.dark-theme .btn-primary:hover {
+    background: #2d5a87;
+    box-shadow: 0 10px 25px rgba(30, 58, 95, 0.5);
+}
+
+body.dark-theme .btn-secondary {
+    background: transparent;
+    color: #5a8fb8;
+    border: 2px solid #5a8fb8;
+}
+
+body.dark-theme .btn-secondary:hover {
+    background: #1e3a5f;
+    color: #ffffff;
+    border-color: #1e3a5f;
+}
+
+body.dark-theme .btn-cv {
+    background: #1e3a5f;
+    color: #ffffff;
+}
+
+body.dark-theme .btn-cv:hover {
+    background: #2d5a87;
+    box-shadow: 0 10px 25px rgba(30, 58, 95, 0.5);
+}
+
+/* Section Title Underline Dark Mode */
+body.dark-theme .section-title::after {
+    background: #5a8fb8;
+}
